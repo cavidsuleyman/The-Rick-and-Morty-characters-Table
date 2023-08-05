@@ -10,7 +10,7 @@ Hello, I create with React, RestAPI, and Axios Rick and Morty characters table.
 
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/Dictionary-App-SvelteJS.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/The-Rick-and-Morty-characters-Table.git` <br/>
 > **STEP-2:**  enter the `The-Rick-and-Morty-characters-Table` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run all the files in the main folder "npm start" <br/>
