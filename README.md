@@ -14,7 +14,7 @@ Hello, I create with React, RestAPI, and Axios Rick and Morty characters table.
 > **STEP-2:**  enter the `The-Rick-and-Morty-characters-Table` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run all the files in the main folder "npm start" <br/>
-> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Dictionary-App-SvelteJS/archive/refs/heads/master.zip) click <br/>
+> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/The-Rick-and-Morty-characters-Table/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
